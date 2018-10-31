@@ -2,6 +2,6 @@
 <!-- Starts the turtlesim -->
 <node name="turtlesim" pkg="turtlesim" type="turtlesim_node"/>
 <!-- Runs the turtlesim set_goal node -->
-<!-- <node name="turtle_challenge_node" pkg="turtle_challenge" type="set_goal.py" output="screen"/> -->
+<node name="turtle_challenge_node" pkg="turtle_challenge" type="set_goal.py" output="screen"/>
 
 </launch>
